@@ -20,8 +20,8 @@ date: 2016-07-09
 1 can black beans<br>
 1/2 cup bread crumbs<br>
 1 tomato<br>
-Handful of salad leaves<br>
-4 whole weat burger buns<br>
+1 Handful of salad leaves<br>
+4 whole wheat burger buns<br>
 1/3 cup hummus<br>
 Salt, cayenne to taste<br><br>
 
