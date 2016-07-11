@@ -5,7 +5,6 @@ permalink: /blog/
 order: 3
 ---
 
-<!doctype html>
 <html>
   <head>
     <meta charset="utf-8">
