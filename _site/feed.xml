@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Avanti</title>
+    <description></description>
+    <link>localhost:4000/</link>
+    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 10 Jul 2016 15:27:41 -0700</pubDate>
+    <lastBuildDate>Sun, 10 Jul 2016 15:27:41 -0700</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Vegetarian Bean Burgers Recipe</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/Burger.JPG&quot; alt=&quot;Vegetarian Burger&quot; style=&quot;width:300px;height:400px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;paragraph&quot;&gt; 
+&lt;b&gt;Servings: 4 &lt;/b&gt; &lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;Ingredients:&lt;/b&gt;&lt;br /&gt;
+
+1 1/2 red onion&lt;br /&gt;
+1/3 cup frozen peas&lt;br /&gt;
+1/3 cup frozen corn&lt;br /&gt;
+1 green pepper&lt;br /&gt;
+2 peeled carrot sticks&lt;br /&gt;
+1 jalapeno&lt;br /&gt;
+1 clove garlic&lt;br /&gt;
+1 can black beans&lt;br /&gt;
+1/2 cup bread crumbs&lt;br /&gt;
+1 tomato&lt;br /&gt;
+Handful of salad leaves&lt;br /&gt;
+4 whole weat burger buns&lt;br /&gt;
+1/3 cup hummus&lt;br /&gt;
+Salt, cayenne to taste&lt;br /&gt;&lt;br /&gt;
+
+&lt;b&gt;Recipe:&lt;/b&gt;&lt;br /&gt;
+To begin with, dice one red onion and mince the clove of garlic. Chop the green pepper, carrots, and jalapeno as well, and drain, rinse, and dry the can of black beans.&lt;br /&gt;&lt;br /&gt;
+
+Pour two tablespoons of olive oil into a pan, and cook the diced red onion and minced garlic on medium heat for a couple of minutes. Once browned, add the peas, corn, pepper, and jalapeno, stir the vegetables and add salt and cayenne pepper to taste. Add another tablespoon of olive oil, and let the veggies cook for a few minutes on medium heat. Then, add the entire can of beans and let the beans and veggies cook for another two minutes. Remove the pan from heat and mix in the bread crumbs. Mash the entire mixture so that the beans create a paste and are not whole. At this time, if the mixture is falling apart, add more bread crumbs until you can create four balls out of the bean mixture.&lt;br /&gt;&lt;br /&gt;
+
+Once the bean and veggie mixture is ready, seperate it into four sections and create four patties with your hands. Grill the four patties on medium heat until both sides of the patty are brown. Once one side is completely grilled and the other side is not, place a slice of cheese on the finished side and allow the patty to finish grilling. Also grill the burger buns.&lt;br /&gt;&lt;br /&gt; 
+
+Once the patties and buns are done, spread hummus on all of the burger bun tops and place the salad leaves on the bottom of the buns. Then, slice the tomato and half onion to top the patties. 
+ &lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 Jul 2016 00:00:00 -0700</pubDate>
+        <link>localhost:4000/2016/07/09/vegetarian-bean-burgers-recipe.html</link>
+        <guid isPermaLink="true">localhost:4000/2016/07/09/vegetarian-bean-burgers-recipe.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/Picnic.JPG&quot; alt=&quot;Picnic Picture&quot; style=&quot;width:400px;height:400px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;paragraph&quot;&gt; This blog has been in the works for a few weeks now, and I&#39;m so excited to finally share it with all of you! The last six weeks have been a really fun time for me - I was in the heart of New York City, exploring, eating (hence the frequent recipes/food reviews you will see on this blog), and learning. This first post is a little more general, but over the next few posts, I&#39;m going to share with you some of my favorite adventures/discoveries :) &lt;br /&gt;&lt;br /&gt;
+
+This is a picture of a picnic that my sister and I packed. That Sunday, we actually went on a lot of mini adventures - before going to Central Park for our picnic, we took the subway to a famous grocery store, Zabar, known for its eight years of existence and specialty groceries. After our picnic (and a little nap), we visited a cafe, Cafe Lalo, famed for being featured in &quot;You&#39;ve Got Mail.&quot; We, of course, went back home and watched the movie (turns out Zabar was also featured in the movie!). Overall, it was a fun day, and I&#39;m excited to share some other stories with you all over the course of the next few weeks! &lt;br /&gt;&lt;br /&gt;
+
+My trip to NYC was, more than a trip, a learning experience. I learned so many things that I&#39;ve never had to before - how to use public transportatioin every day (something we in the Bay Area don&#39;t have to really worry about), become more responsible, and go out of my comfort zone - there were some days that I was hesitant to go places because I was afraid I would get lost in such an ovewhelming city. But I also realized it was a unique opportunity for me. I&#39;ve never really liked museums, but NYC has SO many unique museums and exhibitions that I now love them. I got to see some of my favorite artists, something I wouldn&#39;t have gotten the chance to do otherwise. &lt;br /&gt;&lt;br /&gt;
+
+I&#39;m going to share more detailed stories with you from my trip, so come back in a few days! &lt;br /&gt;&lt;br /&gt;
+
+Love, &lt;br /&gt;
+Avanti
+
+&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Jul 2016 20:18:37 -0700</pubDate>
+        <link>localhost:4000/2016/07/07/welcome.html</link>
+        <guid isPermaLink="true">localhost:4000/2016/07/07/welcome.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

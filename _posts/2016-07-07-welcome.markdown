@@ -1,0 +1,21 @@
+---
+layout: post
+title:  Welcome
+date: 2016-07-07 23:18:37 -0400
+excerpt: This blog has been in the works for a few weeks now, and I'm so excited to finally share it with all of you! The last six weeks have been a really fun time for me - I was in the heart of New York city, exploring, eating (hence the Food page on this website!), and learning. I can't wait to share my favorite adventures on this blog :)
+---
+
+<img src="/img/Picnic.JPG" alt="Picnic Picture" style="width:400px;height:400px;">
+
+<p class="paragraph"> This blog has been in the works for a few weeks now, and I'm so excited to finally share it with all of you! The last six weeks have been a really fun time for me - I was in the heart of New York City, exploring, eating (hence the frequent recipes/food reviews you will see on this blog), and learning. This first post is a little more general, but over the next few posts, I'm going to share with you some of my favorite adventures/discoveries :) <br><br>
+
+This is a picture of a picnic that my sister and I packed. That Sunday, we actually went on a lot of mini adventures - before going to Central Park for our picnic, we took the subway to a famous grocery store, Zabar, known for its eight years of existence and specialty groceries. After our picnic (and a little nap), we visited a cafe, Cafe Lalo, famed for being featured in "You've Got Mail." We, of course, went back home and watched the movie (turns out Zabar was also featured in the movie!). Overall, it was a fun day, and I'm excited to share some other stories with you all over the course of the next few weeks! <br><br>
+
+My trip to NYC was, more than a trip, a learning experience. I learned so many things that I've never had to before - how to use public transportatioin every day (something we in the Bay Area don't have to really worry about), become more responsible, and go out of my comfort zone - there were some days that I was hesitant to go places because I was afraid I would get lost in such an ovewhelming city. But I also realized it was a unique opportunity for me. I've never really liked museums, but NYC has SO many unique museums and exhibitions that I now love them. I got to see some of my favorite artists, something I wouldn't have gotten the chance to do otherwise. <br><br>
+
+I'm going to share more detailed stories with you from my trip, so come back in a few days! <br><br>
+
+Love, <br>
+Avanti
+
+</p>

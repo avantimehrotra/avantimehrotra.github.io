@@ -1,0 +1,91 @@
+---
+layout: default
+title: Welcome
+permalink: /welcome/
+order: 1
+---
+<audio src="/music/1-11 Holy Ground.mp3" autoplay></audio>
+<h1 class=page-heading> 
+  welcome 
+</h1>
+
+<div class="css-slideshow">
+	<div class="mySlides fade">
+	<img src="/img/EiffelTower.JPG" style="width:720px;height:540px;">
+	</div>
+
+	<div class="mySlides fade">
+	<img src="/img/Spices.JPG" style="width:500px;height:550px;">
+	</div>
+	
+	<div class="mySlides fade">
+	<img src="/img/Gondola.JPG" style="width:500px;height:550px;">
+	</div>
+
+	<div class="mySlides fade">	
+	<img src="/img/Empire.JPG" style="width:500px;height:550px;">
+	</div>
+
+	<div class="mySlides fade">
+	<img src="/img/RedFort.JPG" style="width:500px;height:550px;">
+	</div>
+
+	<div class="mySlides fade">
+	<img src="/img/Carrots.JPG" style="width:600px;height:500px;">
+	</div>
+
+	<div class="mySlides fade">
+	<img src="/img/Bridge.JPG" style="width:500px;height:550px;">
+	</div>
+
+	<div class="mySlides fade">
+	<img src="/img/Pisa.JPG" style="width:400px;height:550px;">
+	</div>
+
+	<div class="mySlides fade">
+	<img src="/img/CentralPark.JPG" style="width:500px;height:500px;">
+	</div>
+
+	<div class="mySlides fade">
+	<img src="/img/ChitchenItza.JPG" style="width:500px;height:550px;">
+	</div>
+
+	<br>
+
+	<div style="text-align:center">
+	  <span class="dot"></span>
+	  <span class="dot"></span>
+	  <span class="dot"></span>
+	  <span class="dot"></span>
+	  <span class="dot"></span>
+	  <span class="dot"></span>
+	  <span class="dot"></span>
+	  <span class="dot"></span>
+	  <span class="dot"></span>
+	  <span class="dot"></span>
+	</div>
+	</div>
+
+<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    var dots = document.getElementsByClassName("dot");
+    for (i = 0; i < slides.length; i++) {
+       slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex> slides.length) {slideIndex = 1}
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex-1].style.display = "block";
+    dots[slideIndex-1].className += " active";
+    setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+</script>
+
+</body>

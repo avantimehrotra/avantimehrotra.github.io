@@ -1,0 +1,267 @@
+/*---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+// Our variables
+$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "layout",
+        "syntax-highlighting"
+;*/
+
+@import url(https://fonts.googleapis.com/css?family=Wire+One);
+@import url(https://fonts.googleapis.com/css?family=Sacramento);
+@import url(https://fonts.googleapis.com/css?family=Lora);
+* {
+  box-sizing: border-box;
+}
+
+.trigger{
+  margin-top: 20px;
+}
+.page-heading
+{
+  color: rgb(40, 40, 55); 
+  font-family: 'Sacramento', cursive, bold; 
+  font-size: 90px; 
+  font-weight: 500;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.quote {
+  color: rgb(40, 40, 55); 
+  font-family: 'Sacramento', cursive, bold; 
+  font-size: 30px;
+  font-weight: 300;
+  margin-top: 60px; 
+  margin-bottom: 10px;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 13px;
+  width: 13px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: .5s;
+  animation-name: fade;
+  animation-duration: .5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .8}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .8}
+  to {opacity: 1}
+}
+
+.post-title
+{
+  color: rgb(40, 40, 55); 
+  font-family: 'Lora', serif, bold; 
+  font-size: 20px; 
+  font-weight: 500;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+
+ul li{
+  display: inline;
+  text-align: left;
+}
+
+.line
+{
+  height: 1px;
+  background: rgb(220, 220, 220);
+  width: 65%;
+}
+.date
+{
+  color: rgb(130, 130, 130); 
+  font-family: 'Lora', serif; 
+  font-size: 14px; 
+  font-weight: 500;
+  padding-bottom: -10px;
+  margin-top: 40px;
+  margin-bottom: 0px;
+}
+
+body { 
+  color: rgb(40, 40, 55); 
+  font-family: 'Wire One', sans-serif; 
+  font-size: 26px; 
+  font-weight: 500; 
+  background-color: rgb(255,250,255);
+}
+
+
+.paragraph, .post-list{
+  text-align: justify;
+  font-family: 'Lora', serif;
+  color: rgb(40, 40, 55);
+  font-family: ;
+  font-size: 15px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-bottom: 20px;
+}
+div {
+  text-align:center; 
+}
+
+
+.footer-col-1 {
+  margin-top: 75px;
+  margin-bottom: 10px;
+  font-family: "Sacramento", cursive;
+  color: rgb(40, 40, 55);
+  font-size: 18px;
+  margin: 0 auto;
+}
+
+.footer-col-2 {
+  width: 5%;
+  height: 5px;
+  margin: 0 auto;
+}
+
+ul.social-media-list {
+  width: 100px;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: -35px;
+  
+}
+/*
+li {
+  float: none;
+  display: inline-block;
+}
+*/
+
+a.page-link {
+  position: relative;
+  display: inline-block;
+  border: none;
+  width: 75px;
+  padding: .1rem 0;
+  margin: 0;
+  text-align: center;
+  text-decoration: none;
+  color: rgb(40,40,55);
+}
+
+a.page-link:after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  left: 12px;
+  bottom: 0px;
+  background-color: rgb(255,86,117);
+  width: 0%;
+  height: 1px;
+  transition: 0.1s
+}
+
+a.page-link:hover:after { 
+  width: 75%;
+}
+
+hr {
+  border: none;
+}
+
+.original {
+  margin-bottom: 0px;
+}
+
+/*.OnAbout, .OnBlog, .OnFood, .OnProjects {
+  color: rgb(255,86,117);
+}*/
+
+.AboutImage {
+  background: url("/img/AboutPictureFinal.JPG");
+  background-size: cover;
+  width: 400px;
+  height: 550px;
+  margin: 10px 0 0 10px;
+  margin-top: 75px;
+}
+
+.AboutText {
+  background: rgba(255,255,255,0.9);
+  font-family: 'Wire One', sans-serif, bold;
+  position: relative;
+  bottom: -30px;
+  color: black;
+  font-size: 24px;
+}
