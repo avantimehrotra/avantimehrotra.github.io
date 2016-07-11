@@ -247,6 +247,12 @@ hr {
 /*.OnAbout, .OnBlog, .OnFood, .OnProjects {
   color: rgb(255,86,117);
 }*/
+.img {
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
 
 .AboutImage {
   background: url("/img/AboutPictureFinal.JPG");
