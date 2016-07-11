@@ -7,7 +7,7 @@ order: 3
 
 <div class="body">
   <div class="inner-body">
-  <p class="quote">"People who love to eat are always the best people"</p>
+  <p class="quote">"People who love to eat are always the best people." ~ Julia Child</p>
   <hr class="line">
   <ul class="post-list">
     {% for post in site.posts %}
