@@ -10,11 +10,12 @@ order: 3
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>anita mehrotra</title>
+    <title>avanti mehrotra</title>
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/github-light.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   </head>
+</html>
 
 <div class="body">
   <div class="inner-body">
@@ -33,4 +34,3 @@ order: 3
 </div>
 
 </head>
-</html>
