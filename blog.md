@@ -4,6 +4,16 @@ title: Blog
 permalink: /blog/
 order: 3
 ---
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>anita mehrotra</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  </head>
 
 <div class="body">
   <div class="inner-body">
@@ -20,3 +30,5 @@ order: 3
   </ul>
   </div>
 </div>
+
+</head>
