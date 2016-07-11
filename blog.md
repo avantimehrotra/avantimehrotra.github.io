@@ -4,6 +4,7 @@ title: Blog
 permalink: /blog/
 order: 3
 ---
+
 <!doctype html>
 <html>
   <head>
@@ -32,3 +33,4 @@ order: 3
 </div>
 
 </head>
+</html>
