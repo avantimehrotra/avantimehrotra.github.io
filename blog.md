@@ -14,7 +14,9 @@ order: 3
     <link rel="stylesheet" href="stylesheets/github-light.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   </head>
-  <div class="body">
+</html>
+
+<div class="body">
     <div class="inner-body">
       <p class="quote">"People who love to eat are always the best people." ~ Julia Child</p>
       <hr class="line">
@@ -29,5 +31,3 @@ order: 3
       </ul>
     </div>
   </div>
-</html>
-
