@@ -7,11 +7,11 @@ excerpt:
 
 <p class="paragraph"> 
 
-As I was looking through my photos to decide on my next post, I realized I had visited several ice cream placs. What I didn't realize was how many strong opinions I had formed on each place. Ice cream is the best thing ever, and I've cultivated a list of the places I tried and which one tops the list. </p><br>
+As I was looking through my photos to decide on my next post, I realized I had visited a ton of ice cream places. What I didn't realize was how many strong opinions I had formed on each place. Ice cream is the best thing ever, and I've cultivated a list of the places I tried and which one tops the list. </p><br>
 <img src="/img/amplehills.JPG" style="width:400px;height:500px;"><br>
 
 <p class="paragraph">
-(1) Best. Ice Cream. Ever. I did not Yelp Ample Hills, nor did I know it even existed. I was on my way to the High Line, and as I was walking through the Meatpacking District, I saw Ample Hills was very busy. I didn't think much of it and continued to walk towards the High Line. But it was hot. Really hot. So as I walked down the High Line, and through Chelsea Market, I kept my eyes open for another appealing ice cream place, but nothing stood out to me like Ample Hills. So, of course, I decided to wait and try it on my way back home. I'm so glad I made the decision - I've never had such good strawberry ice cream. In my life. It literally had fresh strawberries in it, and though I chose the less healthy route, I felt like I was eating real strawberries. </p><br>
+(1) Best. Ice Cream. Ever. I did not <i>Yelp</i> Ample Hills, nor did I know it even existed. I was on my way to the High Line, and as I was walking through the Meatpacking District, I saw Ample Hills was very busy. I didn't think much of it and continued to walk towards the High Line. But it was hot. Really hot. So as I walked down the High Line, and through Chelsea Market, I kept my eyes open for another appealing ice cream place, but nothing stood out to me like Ample Hills. So, of course, I decided to wait and try it on my way back home. I'm so glad I made the decision - I've never had such good strawberry ice cream. In my life. It literally had fresh strawberries in it, and though I chose the less healthy route, I felt like I was eating real strawberries. </p><br>
 
 <img src="/img/iceandvice.jpg" alt="Ice and Vice" style="width:500px;height:300px;"><br>
 <p class="paragraph">
