@@ -6,6 +6,7 @@ excerpt:
 ---
 
 <p class="paragraph"> 
+<br><br>
 
 As I was looking through my photos to decide on my next post, I realized I had visited a ton of ice cream places. What I didn't realize was how many strong opinions I had formed on each place. Ice cream is the best thing ever, and I've cultivated a list of the places I tried and which one tops the list. </p><br>
 <img src="/img/amplehills.JPG" style="width:400px;height:500px;"><br>

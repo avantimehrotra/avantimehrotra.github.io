@@ -4,7 +4,7 @@ title:  Visiting the MoMa
 date: 2016-07-12 
 excerpt: 
 ---
-
+<br>
 <img src="/img/MoMa.JPG" style="width:400px;height:500px;">
 
 <p class="paragraph"> 

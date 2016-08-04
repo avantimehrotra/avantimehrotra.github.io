@@ -3,7 +3,7 @@ layout: post
 title:  Vegetarian Bean Burgers Recipe
 date: 2016-07-09 
 ---
-
+<br>
 <img src="/img/Burger.JPG" alt="Vegetarian Burger" style="width:300px;height:400px;">
 
 <p class="paragraph"> 
