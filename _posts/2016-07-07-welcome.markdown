@@ -4,7 +4,7 @@ title:  Welcome
 date: 2016-07-07 23:18:37 -0400
 excerpt: This blog has been in the works for a few weeks now, and I'm so excited to finally share it with all of you! The last six weeks have been a really fun time for me - I was in the heart of New York city, exploring, eating (hence the Food page on this website!), and learning. I can't wait to share my favorite adventures on this blog :)
 ---
-<br>
+<br><br><br>
 <img src="/img/Picnic.JPG" alt="Picnic Picture" style="width:400px;height:400px;">
 
 <p class="paragraph"> 

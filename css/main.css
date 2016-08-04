@@ -80,7 +80,9 @@
 
 .post-header 
 {
-  font-size: 15px;
+  color: rgb(130, 130, 130);
+  font-family: 'Lora', serif;
+  font-size: 10px;
 }
 
 
