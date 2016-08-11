@@ -1,0 +1,19 @@
+---
+layout: post
+title:  Stranded
+date: 2016-08-09 
+excerpt: 
+---
+<img src="/img/trainstation.JPG" style="width:400px;height:400px;"><br>
+
+<p class="paragraph"> 
+One of my most memorable memories of my trip to NYC was when my sister and I went to her friend's wedding. We took the train from Grand Central Station to go to Conneticut. Grand Central literally looks like an image straight out of a fantasy. </p>
+
+<img src="/img/traintrack.JPG" style="width:400px;height:500px;">
+
+<p class="paragraph"> Just as we entered Conneticut, our train stopped abruptly, and we were forced to get off of the train and wait. After over an hour of waiting, we were told that the bridge our train needed to cross was experiencing mechanical issues. As a result, we were forced to find other forms of transportation to get to our destination. Literally stranded in the outskirts of Conneticut, my sister and I panicked. Luckily, some of our very close family friends live in Conneticut and were ultimately able to give us a ride to the venue. Driving through Conneticut actually turned out to be a pretty neat experience. Although we got to the hotel where the reception was much later than expected because of the train, we got to still attend a majority of the reception (and catch the Warriors semifinals game). </p>
+
+<img src="/img/churchCT.JPG" style="width:400px;height:500px;"><br>
+
+<p class="paragraph"> Above is a picture of a beautiful church on the outskirts of Conneticut. We passed the church as we were driving away from the station with our family friend. To be honest, I was surprised how calm I stayed throughout the whole situation - part of it, of course, was that my sister was with me. But despite how hot it was, and how much confusion there was in the span of a few hours, it was actually an entertaining experience: we got to drive through suburban Conneticut, as well as the wooded areas, and see parts of another state, an area very different from the heart of New York. </p>
+
