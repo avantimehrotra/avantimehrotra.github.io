@@ -17,8 +17,8 @@ excerpt:
 2 teaspoons milk<br><br>
 
 <b>Recipe: </b><br>
-This is a delicious recipe for a super quick frosting for cakes/cupcakes that isn't super runny. 
-<br>
+This is a delicious recipe for a quick, and very easy, frosting that isn't super runny. 
+<br><br>
 
 To begin with, beat the softened butter and cream cheese together with an electric mixer, on medium speed. While beating the butter and cream cheese, slowly add the powdered sugar. Once you have added all the sugar, add the milk, and beat for another minute on high speed. Then, add the vanilla extract and stir the frosting just until the extract is blended. Enjoy!!!
 </p>
