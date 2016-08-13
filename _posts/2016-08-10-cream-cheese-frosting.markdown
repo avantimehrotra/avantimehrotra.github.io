@@ -5,6 +5,8 @@ date: 2016-08-10
 excerpt: 
 ---
 <img src="/img/CakePicture.JPG" style="width:400px;height:400px;"><br>
+<p class="paragraph"> This is a cake my sister and I baked for Fourth of July, featuring, of course, this amazing frosting recipe. 'Shout out to my sister, we relate, we get the same attention' </p><br><br>
+
 
 <p class="paragraph"> 
 <b>Servings: Enough to frost a 10x10 cake (or 1 dozen cupcakes)</b><br><br>
